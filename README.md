@@ -1,7 +1,7 @@
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
-
+[GitHub Actions](https://github.com/Reyka141/hexlet-ci-app/actions)
 ## System requirements
 
 * NodeJS >= 18
